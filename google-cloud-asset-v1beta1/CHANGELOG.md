@@ -1,5 +1,11 @@
 # Release History
 
+### 0.2.6 (2022-04-18)
+
+#### Bug Fixes
+
+* Update grpc-google-iam-v1 dependency to 1.1
+
 ### 0.2.5 / 2020-08-10
 
 #### Bug Fixes
